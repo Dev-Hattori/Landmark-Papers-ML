@@ -1,0 +1,6 @@
+# Data 'n Model Folders
+data/
+
+# Cache
+.vscode
+__pycache__
